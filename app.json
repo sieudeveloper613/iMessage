@@ -1,0 +1,8 @@
+{
+  "name": "iMessage",
+  "displayName": "iMessage",
+  "androidStatusBar": {
+    "barStyle": "dark-content",
+    "backgroundColor": "#FFFFFF"
+  }
+}
